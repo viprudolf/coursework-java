@@ -1,7 +1,7 @@
 package edu.javavt19.service;
 
-import edu.javavt19.dao.CarBrandDAO;
 import edu.javavt19.model.CarBrand;
+import edu.javavt19.dao.CarBrandDAO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
