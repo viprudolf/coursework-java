@@ -1,0 +1,7 @@
+edu.javavt19.config
+edu.javavt19.dao
+edu.javavt19.dao.hibernate
+edu.javavt19.dao.jdbc
+edu.javavt19.dao.jpa
+edu.javavt19.model
+edu.javavt19.service
